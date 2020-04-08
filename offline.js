@@ -1,0 +1,21 @@
+﻿{
+	"version": 1586337308,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/character-sheet0.png",
+		"images/tiledbackground.png",
+		"images/zoomoutico-sheet0.png",
+		"images/zoomico-sheet0.png",
+		"images/zoom-sheet0.png",
+		"images/zoomb-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
